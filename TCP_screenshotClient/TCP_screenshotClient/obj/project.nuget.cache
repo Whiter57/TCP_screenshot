@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ejhCNNqLBF5YZD28Au5JDnRfzYQcnqyczEj4PVhp7GNbnW472DfdEETJv+e1ioDhhhpxsuK6KL3IbH+6U5TjYQ==",
+  "success": true,
+  "projectFilePath": "F:\\C++\\TCP_screenshot\\TCP_screenshotClient\\TCP_screenshotClient\\TCP_screenshotClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
